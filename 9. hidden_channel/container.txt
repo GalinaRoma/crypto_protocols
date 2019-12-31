@@ -1,0 +1,1 @@
+Cryptanalysis is the study of analyzing information systems in order to study the hidden aspects of the systems.[1] Cryptanalysis is used to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.
